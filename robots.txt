@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://navelisi.github.io/sitemap
+Sitemap: https://navelisi.github.io/app/sitemap
+Sitemap: https://navelisi.github.io/assets/sitemap
+Sitemap: https://navelisi.github.io/css/sitemap
+Sitemap: https://navelisi.github.io/includes/sitemap
+Sitemap: https://navelisi.github.io/item/sitemap
+Sitemap: https://navelisi.github.io/src/sitemap
